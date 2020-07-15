@@ -1,5 +1,5 @@
 # pdf-search
-Script for pulling each line in set of PDFs that contains a matching string from a list of specified strings. Initial use case was being able to quickly pull out rows in tables that contain a match. See [`example/`](https://github.com/CelestineKao/pdf-search/tree/master/example).
+Script for pulling each line in a set of PDFs that contains a matching string from a list of specified strings. Initial use case was to enable being able to quickly pull out rows in tables that contain a match. See [`example/`](https://github.com/CelestineKao/pdf-search/tree/master/example).
 
 ## How to use
 __Note:__ These instructions are written for MacOS (>= Sierra) and assumes basic command line familiarity 
